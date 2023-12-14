@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahnisikhadhar&label=Profile%20views&color=0e75b6&style=flat" alt="bahnisikhadhar" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native with Expo**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript**, **React.js**
 
 - 📫 How to reach me **bahnisikhadhar@gmail.com**
 

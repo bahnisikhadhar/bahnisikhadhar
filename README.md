@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning  **Next.js by making projects**
 
-- 💬 Ask me about **Javascript**, **React.js**, **React Native**
+- 💬 Ask me about **Javascript**, **Typescript**, **React.js**, **React Native**
 
 - 📫 How to reach me **bahnisikhadhar@gmail.com**
 

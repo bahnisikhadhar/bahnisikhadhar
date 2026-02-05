@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning  **Node.js by making projects**
 
-- 💬 Ask me about **Javascript**, **Typescript**, **React.js**, **React Native**, **Next.js**, **MongoDB**, **Express.js**, **HTML**, **CSS**, **Tailwind CSS**
+- 💬 Ask me about **Javascript**, **Typescript**, **React.js**, **React Native**, **Next.js**, **MongoDB**, **Express.js**, **HTML**, **CSS**, **Tailwind CSS**, **Node.js**
 
 - 📫 How to reach me **bahnisikhadhar@gmail.com**
 

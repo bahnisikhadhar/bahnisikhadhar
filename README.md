@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahnisikhadhar&label=Profile%20views&color=0e75b6&style=flat" alt="bahnisikhadhar" /> </p>
 
-- 🌱 I’m currently Exploring LLMs, RAG etc  **by making projects**
+- 🌱 I’m currently Exploring LLMs, RAG etc.  **by making projects**
 
-- 💬 Ask me about **Javascript**, **Typescript**, **React.js**, **React Native**, **Next.js**, **MongoDB**, **Express.js**, **HTML**, **CSS**, **Tailwind CSS**, **Node.js**
+- 💬 Ask me about **Javascript**, **Typescript**, **React.js**, **React Native**, **Next.js**, **MongoDB**, **Express.js**, **HTML**, **CSS**, **Tailwind CSS**, **Node.js**, **Python**, **PostgressSQL**
 
 - 📫 How to reach me **bahnisikhadhar@gmail.com**
 
